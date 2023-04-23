@@ -1,1 +1,1 @@
-# Simple-Sign-Up
+# Simple Sign Up
